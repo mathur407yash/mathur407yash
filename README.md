@@ -118,22 +118,6 @@
 
 ---
 
-### 📂 Public Repositories
-
-<p align="left">
-  <a href="https://github.com/mathur407yash/Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mathur407yash&repo=Expense-Tracker&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mathur407yash/Job-Listing-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mathur407yash&repo=Job-Listing-System&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mathur407yash/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mathur407yash&repo=Portfolio&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p>
