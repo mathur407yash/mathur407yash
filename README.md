@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 💻 I’m a **Java Backend Developer** with over **1 year of professional experience** in building secure and scalable web applications.  
+- 💻 I’m a **Java Backend Developer** with around **2 year of professional experience** in building secure and scalable web applications.  
 - 🚀 Skilled in **Spring Boot**, **Spring Security**, and **Microservices Architecture**.  
 - 🤖 Exploring **AI integration** into real-world systems to make apps more intelligent and efficient.  
 - 📫 Reach me at **mathuryash407@gmail.com**  
